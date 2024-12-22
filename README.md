@@ -35,12 +35,12 @@ The dataset used is the Credit Card Fraud Detection Dataset, which includes:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/credit-card-fraud-detection.git
+git@github.com:anamikagautam1603/Credit-Card-Fraud-Detection.git
 ```
 
 ### Step 2: Navigate to the Project Directory
 ```bash
-cd credit-card-fraud-detection
+cd Credit-Card-Fraud-Detection
 ```
 
 ### Step 3: Install the Required Packages
